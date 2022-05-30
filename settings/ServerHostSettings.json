@@ -1,0 +1,18 @@
+{
+  "Name": "lanhuis.com - Dedicated V Rising Server",
+  "Description": "Bierberen 4life",
+  "Port": 27015,
+  "QueryPort": 27016,
+  "MaxConnectedUsers": 40,
+  "MaxConnectedAdmins": 4,
+  "ServerFps": 30,
+  "SaveName": "world1",
+  "Password": "E6CKgyVmPxM8",
+  "Secure": true,
+  "ListOnMasterServer": true,
+  "AutoSaveCount": 50,
+  "AutoSaveInterval": 300,
+  "GameSettingsPreset": "",
+  "AdminOnlyDebugEvents": true,
+  "DisableDebugEvents": false
+}
